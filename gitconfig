@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jordanw.luong@gmail.com
+	name = Jordan Luong
